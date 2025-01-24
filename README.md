@@ -25,3 +25,25 @@ This repository contains a collection of JavaScript projects aimed at practicing
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mastan143/Master-JS-Projects.git
+
+   Update README.md
+2. Navigate to the project folder:
+ cd Master-JS-Projects/Age-Calculator
+
+3. Open the index.html file in your browser to view the project.
+
+
+Upcoming Projects 🛠️
+ ->To-Do List: A task management app with add, edit, and delete functionality.
+ ->Weather App: Fetch real-time weather updates for any city using an API.
+
+Contributing 🤝
+Contributions are welcome! If you have ideas for improving the projects or adding new ones, feel free to fork the repo, make changes, and submit a pull request.
+
+License 📄
+This repository is licensed under the MIT License. See the LICENSE file for details.
+
+Author 💻
+Mastan143
+
+GitHub: @Mastan1432
