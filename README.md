@@ -33,19 +33,19 @@ This repository contains a collection of JavaScript projects aimed at practicing
 3. Open the index.html file in your browser to view the project.
 
 
-Upcoming Projects 🛠️
+##Upcoming Projects 🛠️
 
  ->To-Do List: A task management app with add, edit, and delete functionality.
  ->Weather App: Fetch real-time weather updates for any city using an API.
 
-Contributing 🤝 
+##Contributing 🤝 
 
 Contributions are welcome! If you have ideas for improving the projects or adding new ones, feel free to fork the repo, make changes, and submit a pull request.
 
-License 📄
+##License 📄
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-Author 💻
+##Author 💻
 Mastan143
 
-GitHub: @Mastan1432
+##GitHub: @Mastan1432
