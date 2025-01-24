@@ -34,6 +34,7 @@ This repository contains a collection of JavaScript projects aimed at practicing
 
 
 Upcoming Projects 🛠️
+
  ->To-Do List: A task management app with add, edit, and delete functionality.
  ->Weather App: Fetch real-time weather updates for any city using an API.
 
