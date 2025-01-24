@@ -36,6 +36,7 @@ This repository contains a collection of JavaScript projects aimed at practicing
 ## Upcoming Projects 🛠️
 
  ->To-Do List: A task management app with add, edit, and delete functionality.
+ 
  ->Weather App: Fetch real-time weather updates for any city using an API.
 
 ## Contributing 🤝 
@@ -48,4 +49,5 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 ## Author 💻
 Mastan143
 
-## GitHub: @Mastan1432
+## GitHub: 
+@Mastan1432
