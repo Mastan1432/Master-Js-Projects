@@ -12,7 +12,7 @@ This repository contains a collection of JavaScript projects aimed at practicing
      - Input validation for invalid dates.
      - Displays age in the appropriate unit (years, months, or days).
      - Wishes the user with "🎉 Happy Birthday!" if it's their birthday.
-   - **Live Demo**: [Click here](https://<your-username>.github.io/Master-JS-Projects/Age-Calculator/)
+   - **Live Demo**: [Click here](https://age-claculator1432.netlify.app/)
    - **Tech Stack**: 
      - HTML
      - CSS
